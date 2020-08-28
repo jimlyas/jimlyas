@@ -2,11 +2,11 @@
 
 ### I'm a Full-time Android Application Developer and Part-time Overthinker
 
-- 🔭 I’m currently working for Telkom Indonesia
-- 🌱 I'm currently learning Cloud Computing for fun
+- 🔭 Working for Telkom Indonesia
+- 🌱 Learning Cloud Computing for fun
 - 👯 Certified in multiple SAP modules
 - 🥅 2020 Goals: Be more involved in many activities with colleagues and friends
-- ⚡ For entertainment, i watch a lot of K-drama and netflix series, some animes
+- ⚡ For entertainment, i watch a lot of K-drama and netflix series,and also some animes
 
 ### 📫 Connect with me:
 
