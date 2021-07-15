@@ -1,12 +1,15 @@
-# Hi there, I'm Jimly 👋
+# Jimly here 👋
 
-### I'm a Full-time Android Application Developer and Part-time Overthinker
+### Full-time Android App Developer and Part-time Overthinker
 
 - 🔭 Working for Telkom Indonesia
 - 🌱 Learning Cloud Computing for fun
 - 👯 Certified in multiple SAP modules
-- 🥅 2020 Goals: Be more involved in many activities with colleagues and friends
-- ⚡ For entertainment, i watch a lot of K-drama and netflix series,and also some animes
+- 🥅 2021 Goals: Be more involved in many activities with colleagues and friends
+- ⚡ For entertainment, i watch a lot of K-drama, netflix series, and also some animes
+
+### Now Playing
+[<img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf)
 
 ### 📫 Connect with me:
 
