@@ -9,7 +9,7 @@
 - ⚡ For entertainment, i watch a lot of K-drama, netflix series, and also some animes
 
 ### Now Playing
-[<img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf)
+[<img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />](https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf)
 
 ### 📫 Connect with me:
 
