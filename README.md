@@ -22,6 +22,7 @@ Majoring in Information System. I'm passionate about learning programming especi
 [<img align="left" alt="jimlyas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/jiimlyy)
 
 <br/>
+<br/>
 
 ## Languages and Tools:
 
@@ -40,8 +41,9 @@ Majoring in Information System. I'm passionate about learning programming especi
 <img align="left" alt="linux" width="35px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
 <img align="left" alt="gcp" width="35px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" />
 <img align="left" alt="android" width="35px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" />
-<br/><br/>
 
+<br/>
+<br/>
 
 ## Github Stats
 ![jimlyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark) <br/>
