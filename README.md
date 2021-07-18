@@ -30,7 +30,6 @@ Majoring in Information System. I'm passionate about learning programming especi
 <img align="left" alt="java" width="35px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" />
 <img align="left" alt="html5" width="35px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" />
 <img align="left" alt="git" width="35px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" />
-<img align="left" alt="gitlab" width="35px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" />
 <img align="left" alt="figma" width="35px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" />
 <img align="left" alt="mysql" width="35px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" />
 <img align="left" alt="postgresql" width="35px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" />
@@ -42,6 +41,7 @@ Majoring in Information System. I'm passionate about learning programming especi
 <img align="left" alt="gcp" width="35px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" />
 <img align="left" alt="android" width="35px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" />
 <br/><br/>
+
 
 ## Github Stats
 ![jimlyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark) <br/>
