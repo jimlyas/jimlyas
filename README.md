@@ -10,19 +10,10 @@ Majoring in Information System. I'm passionate about learning programming especi
 - 🥅 2021 Goals: Be more involved in many activities with colleagues and friends
 - ⚡ For entertainment, i watch a lot of K-drama, netflix series, and also some animes
 
-## Now Playing
+## Github Stats
 
-[<img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />](https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf)
-
-
-## Get in touch
-
-[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimlyas)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j_mly)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimlyas)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jiimlyy)
-[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j_mly@outlook.co.id)
-<br />
+![jimlyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&layout=compact&theme=dark&hide=python&hide_border=true)
 
 
 ## Languange and Tools
@@ -42,6 +33,7 @@ Majoring in Information System. I'm passionate about learning programming especi
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![image](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
@@ -53,7 +45,17 @@ Majoring in Information System. I'm passionate about learning programming especi
 ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Github Stats
 
-![jimlyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark&hide_border=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&layout=compact&theme=dark&hide=python&hide_border=true)
+## Now Playing
+
+[<img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />](https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf)
+
+
+## Get in touch
+
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Mckey.moose)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j_mly)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimlyas)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jiimlyy)
+[![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/jimlyas)
+[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j_mly@outlook.co.id)
