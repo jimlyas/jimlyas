@@ -21,11 +21,11 @@ Majoring in Information System. I'm passionate about learning programming especi
 [<img align="left" alt="jimlyas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/j_mly)
 [<img align="left" alt="jimlyas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/jimlyas)
 [<img align="left" alt="jimlyas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/jiimlyy)
-<br/>
+<br />
 
 ## Languages and Tools:
 
-<img align="left" alt="kotlin" width="35px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" />
+<img align="left" alt="kotlin" width="35" height="35" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" />
 <img align="left" alt="python" width="35px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" />
 <img align="left" alt="java" width="35px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" />
 <img align="left" alt="html5" width="35px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" />
@@ -40,13 +40,10 @@ Majoring in Information System. I'm passionate about learning programming especi
 <img align="left" alt="linux" width="35px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
 <img align="left" alt="gcp" width="35px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" />
 <img align="left" alt="android" width="35px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" />
-
-<br/><br/><br/>
-
+<br />
+<br />
 
 ## Github Stats
 
-![jimlyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark) <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&layout=compact&theme=dark&hide=python)
-
-
+![jimlyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark&hide_border=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&layout=compact&theme=dark&hide=python&hide_border=true)
