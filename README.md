@@ -47,6 +47,6 @@ Majoring in Information System. I'm passionate about learning programming especi
 
 ## Github Stats
 ![jimlyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark) <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&layout=compact&theme=dark&hide=python)
 
 
