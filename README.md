@@ -1,9 +1,8 @@
 # Jimly here 👋
 
-## About Me
-Majoring in Information System. I'm passionate about learning programming especially *Android Application Development*. Fascinating by Cloud Computing, i'm learning *Google Cloud Platform* on the side. Futhermore, i took *Enterprise Resource Planning* (ERP) using SAP and Odoo.
-
 ## Full-time Android App Developer and Part-time Overthinker
+
+Majoring in Information System. I'm passionate about learning programming especially *Android Application Development*. Fascinating by Cloud Computing, i'm learning *Google Cloud Platform* on the side. Futhermore, i took *Enterprise Resource Planning* (ERP) using SAP and Odoo.
 
 - 🔭 Working for Telkom Indonesia
 - 🌱 Learning Cloud Computing for fun
@@ -12,7 +11,9 @@ Majoring in Information System. I'm passionate about learning programming especi
 - ⚡ For entertainment, i watch a lot of K-drama, netflix series, and also some animes
 
 ## Now Playing
+
 [<img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />](https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf)
+
 
 ## Connect with me:
 
@@ -20,8 +21,6 @@ Majoring in Information System. I'm passionate about learning programming especi
 [<img align="left" alt="jimlyas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/j_mly)
 [<img align="left" alt="jimlyas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/jimlyas)
 [<img align="left" alt="jimlyas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/jiimlyy)
-
-<br/>
 <br/>
 
 ## Languages and Tools:
@@ -42,10 +41,11 @@ Majoring in Information System. I'm passionate about learning programming especi
 <img align="left" alt="gcp" width="35px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" />
 <img align="left" alt="android" width="35px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" />
 
-<br/>
-<br/>
+<br/><br/><br/>
+
 
 ## Github Stats
+
 ![jimlyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark) <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&layout=compact&theme=dark&hide=python)
 
