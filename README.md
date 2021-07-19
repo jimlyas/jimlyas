@@ -15,33 +15,43 @@ Majoring in Information System. I'm passionate about learning programming especi
 [<img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />](https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf)
 
 
-## Connect with me:
+## Get in touch
 
-[<img align="left" alt="jimlyas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://jimlyas.github.io)
-[<img align="left" alt="jimlyas | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/j_mly)
-[<img align="left" alt="jimlyas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/jimlyas)
-[<img align="left" alt="jimlyas | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/jiimlyy)
+[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jimlyas)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j_mly)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimlyas)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jiimlyy)
+[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j_mly@outlook.co.id)
 <br />
 
-## Languages and Tools:
 
-<img align="left" alt="kotlin" width="35" height="35" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" />
-<img align="left" alt="python" width="35px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" />
-<img align="left" alt="java" width="35px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" />
-<img align="left" alt="html5" width="35px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" />
-<img align="left" alt="git" width="35px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" />
-<img align="left" alt="figma" width="35px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" />
-<img align="left" alt="mysql" width="35px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" />
-<img align="left" alt="postgresql" width="35px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" />
-<img align="left" alt="mongodb" width="35px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" />
-<img align="left" alt="firebase" width="35px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" />
-<img align="left" alt="jenkins" width="35px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" />
-<img align="left" alt="docker" width="35px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" />
-<img align="left" alt="linux" width="35px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
-<img align="left" alt="gcp" width="35px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" />
-<img align="left" alt="android" width="35px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" />
-<br />
-<br />
+## Languange and Tools
+![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![image](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![image](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![image](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![image](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Github Stats
 
