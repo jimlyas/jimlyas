@@ -10,13 +10,13 @@ Majoring in Information System. I'm passionate about learning programming especi
 - 🥅 2021 Goals: Be more involved in many activities with colleagues and friends
 - ⚡ For entertainment, i watch a lot of K-drama, netflix series, and also some animes
 
-## Github Stats
+---
 
-![jimlyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark&hide_border=true&hide_title=true&line_height=26&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&theme=dark&hide_border=true&langs_count=3&hide=HTML,TeX&hide_title=true)
+### Stats:
+<details><summary> :zap: Github Stats</summary><img src="https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark&hide_border=true&hide_title=true&line_height=26&include_all_commits=true"/></details>
+<details><summary> :zap: Top Language</summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&theme=dark&hide_border=true&langs_count=3&hide=HTML,TeX&hide_title=true"/></details>
 
-
-## Languange and Tools
+### Languange and Tools:
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,17 +45,20 @@ Majoring in Information System. I'm passionate about learning programming especi
 ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+---
 
-## Now Playing
+<div align="center">
+  <h3>Now Playing</h3>
+  <a href="https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf"><img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" /></a>
+</div>
 
-[<img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" />](https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf)
 
-
-## Get in touch
-
-[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Mckey.moose)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/j_mly)
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimlyas)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jiimlyy)
-[![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/jimlyas)
-[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:j_mly@outlook.co.id)
+<div align="center">
+  <h3>Get in touch</h3>
+  <a href="https://facebook.com/Mckey.moose"><img src="https://img.shields.io/badge/Mckey%20Moose-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://twitter.com/j_mly"><img src="https://img.shields.io/badge/@j_mly-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/jimlyas"><img src="https://img.shields.io/badge/jimlyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/jiimlyy"><img src="https://img.shields.io/badge/@jiimlyy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.reddit.com/user/jimlyas"><img src="https://img.shields.io/badge/jimlyas-FF4500?style=for-the-badge&logo=reddit&logoColor=white)"/></a>
+  <a href="mailto:j_mly@outlook.co.id"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+</div>
