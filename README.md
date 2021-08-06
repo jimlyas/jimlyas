@@ -59,6 +59,6 @@ Majoring in Information System. I'm passionate about learning programming especi
   <a href="https://twitter.com/j_mly"><img src="https://img.shields.io/badge/@j_mly-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://linkedin.com/in/jimlyas"><img src="https://img.shields.io/badge/jimlyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/jiimlyy"><img src="https://img.shields.io/badge/@jiimlyy-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/jimlyas"><img src="https://img.shields.io/badge/jimlyas-FF4500?style=for-the-badge&logo=reddit&logoColor=white)"/></a>
+  <a href="https://www.reddit.com/user/jimlyas"><img src="https://img.shields.io/badge/jimlyas-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
   <a href="mailto:j_mly@outlook.co.id"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 </div>
