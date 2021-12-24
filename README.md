@@ -12,10 +12,6 @@ Majoring in Information System. I'm passionate about learning programming especi
 
 ---
 
-### Stats:
-<details><summary> :zap: Github Stats</summary><img src="https://github-readme-stats.vercel.app/api?username=jimlyas&show_icons=true&theme=dark&hide_border=true&hide_title=true&line_height=26&include_all_commits=true" draggable="false"/></details>
-<details><summary> :zap: Top Language</summary><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimlyas&theme=dark&hide_border=true&langs_count=3&hide=HTML,TeX&hide_title=true"  draggable="false"/></details>
-
 ### Languange and Tools:
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,10 +50,8 @@ Majoring in Information System. I'm passionate about learning programming especi
 
 <div align="center">
   <h3>Get in touch</h3>
-  <a href="https://facebook.com/Mckey.moose"><img src="https://img.shields.io/badge/Mckey%20Moose-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  draggable="false" target="_blank"/></a>
-  <a href="https://twitter.com/j_mly"><img src="https://img.shields.io/badge/@j_mly-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" draggable="false" target="_blank"/></a>
-  <a href="https://linkedin.com/in/jimlyas"><img src="https://img.shields.io/badge/jimlyas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false" target="_blank"/></a>
-  <a href="https://instagram.com/jiimlyy"><img src="https://img.shields.io/badge/@jiimlyy-E4405F?style=for-the-badge&logo=instagram&logoColor=white" draggable="false" target="_blank"/></a>
-  <a href="https://www.reddit.com/user/jimlyas"><img src="https://img.shields.io/badge/jimlyas-FF4500?style=for-the-badge&logo=reddit&logoColor=white" draggable="false" target="_blank"/></a>
+  <a href="https://linkedin.com/in/jimlyas"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false" target="_blank"/></a>
+  <a href="https://stackoverflow.com/users/13200027/jimly-asshiddiqy"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" draggable="false" target="_blank"/></a>
+  <a href="https://jimlyas.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" draggable="false" target="_blank"/></a>
   <a href="mailto:j_mly@outlook.co.id"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" draggable="false" target="_blank"/></a>
 </div>
