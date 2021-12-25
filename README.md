@@ -51,6 +51,7 @@ Majoring in Information System. I'm passionate about learning programming especi
 <div align="center">
   <h3>Get in touch</h3>
   <a href="https://linkedin.com/in/jimlyas"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false" target="_blank"/></a>
+  <a href="https://dev.to/jimlyas"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" draggable="false" target="_blank"/></a>
   <a href="https://stackoverflow.com/users/13200027/jimly-asshiddiqy"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" draggable="false" target="_blank"/></a>
   <a href="https://jimlyas.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" draggable="false" target="_blank"/></a>
   <a href="mailto:j_mly@outlook.co.id"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" draggable="false" target="_blank"/></a>
