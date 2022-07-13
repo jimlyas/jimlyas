@@ -44,7 +44,7 @@ Majoring in Information System. I'm passionate about learning programming especi
 ---
 
 <div align="center">
-  <h3>Now Playing</h3>
+  <h3>Currently listening to</h3>
   <a href="https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf"><img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" /></a>
 </div>
 
