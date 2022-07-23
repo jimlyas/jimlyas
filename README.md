@@ -42,7 +42,7 @@ Majoring in Information System. I'm passionate about learning programming especi
 
 ---
 
-### Latest Blog posts
+### Latest Blog Posts
 
 - [Jetpack Compose for Late Adopters](https://proandroiddev.com/jetpack-compose-cc59718b3914)
 - [6 Basic Security Tips for Android Application](https://medium.com/telkomdev/basic-android-security-11dadf275dea)
