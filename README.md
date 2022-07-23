@@ -1,18 +1,17 @@
-# Jimly here 👋
-
 ## Full-time Android App Developer and Part-time Overthinker
 
 Majoring in Information System. I'm passionate about learning programming especially **Android Application Development**. Fascinating by Cloud Computing, i'm learning **Google Cloud Platform** on the side. Futhermore, i took **Enterprise Resource Planning** (ERP) using SAP and Odoo.
 
 - 🔭 Working for Telkom Indonesia
-- 🌱 Learning Cloud Computing for fun
+- 🌱 Cloud Computing Enthusiast
 - 👯 Certified in multiple SAP modules
-- 🥅 2021 Goals: Be more involved in many activities with colleagues and friends
-- ⚡ For entertainment, i watch a lot of K-drama, netflix series, and also some animes
+- 🥅 Personal Goals: Be more involved in many activities with colleagues and friends
+- ⚡ For entertainment, I watch a lot of animes, TV series, and some K-dramas.
+
 
 ---
 
-### Languange and Tools:
+### Languange and Tools
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -40,6 +39,16 @@ Majoring in Information System. I'm passionate about learning programming especi
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![image](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### Latest Blog posts
+
+- [Jetpack Compose for Late Adopters](https://proandroiddev.com/jetpack-compose-cc59718b3914)
+- [6 Basic Security Tips for Android Application](https://medium.com/telkomdev/basic-android-security-11dadf275dea)
+- [Dynamically change Back-End Environment at Runtime](https://betterprogramming.pub/dynamically-change-backend-environment-in-android-at-runtime-d3af9ec7391f)
+- [Developing HarmonyOS Application as Android Developer](https://proandroiddev.com/harmony-bc0b3cfe3196)
+- [Two Developer Tools for Documenting Android Codebase](https://betterprogramming.pub/two-developer-tools-for-documenting-android-codebases-3482bad3fb4c)
 
 ---
 
