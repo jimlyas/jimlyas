@@ -2,7 +2,7 @@
 
 Majoring in Information System. I'm passionate about learning programming especially **Android Application Development**. Fascinating by Cloud Computing, i'm learning **Google Cloud Platform** on the side. Futhermore, i took **Enterprise Resource Planning** (ERP) using SAP and Odoo.
 
-- 🔭 Working for Telkom Indonesia
+- 🔭 Working for Accenture
 - 🌱 Cloud Computing Enthusiast
 - 👯 Certified in multiple SAP modules
 - 🥅 Personal Goals: Be more involved in many activities with colleagues and friends
