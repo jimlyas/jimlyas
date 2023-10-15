@@ -1,12 +1,16 @@
 ## Full-time Android App Developer and Part-time Overthinker
 
-Majoring in Information System. I'm passionate about learning programming especially **Android Application Development**. Fascinating by Cloud Computing, i'm learning **Google Cloud Platform** on the side. Futhermore, i took **Enterprise Resource Planning** (ERP) using SAP and Odoo.
+Majoring in Information System, I took Enterprise Resource Planning (ERP) specialization using SAP and Odoo.
+
+I'm passionate about learning programming especially Android Application Development. Worked as Android Application Developer for more than 4 years. 
+
+Fascinated by cloud computing, I'm learning Google Cloud Platform on the side. Experienced in Google Maps Platform APIs, BigQuery, and Google Analytics data processing.
 
 - 🔭 Working for Accenture
 - 🌱 Cloud Computing Enthusiast
 - 👯 Certified in multiple SAP modules
 - 🥅 Personal Goals: Be more involved in many activities with colleagues and friends
-- ⚡ For entertainment, I watch a lot of animes, TV series, and some K-dramas.
+- ⚡ For entertainment, I watch a lot of animes, Movies, TV series, and some K-dramas.
 
 
 ---
