@@ -1,4 +1,4 @@
-## Full-time Android App Developer and Part-time Overthinker
+### Full-time Android App Developer and Part-time Overthinker
 
 Majoring in Information System, I took Enterprise Resource Planning (ERP) specialization using SAP and Odoo.
 
