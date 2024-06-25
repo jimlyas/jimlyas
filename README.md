@@ -45,6 +45,7 @@ Fascinated by cloud computing, I'm learning Google Cloud Platform on the side. E
 
 ### Latest Blog Posts
 
+- [Living Dangerously without Obfuscation](https://medium.com/proandroiddev/living-dangerously-without-proguard-affda698a46b)
 - [Jetpack Compose for Late Adopters](https://proandroiddev.com/jetpack-compose-cc59718b3914)
 - [6 Basic Security Tips for Android Application](https://medium.com/telkomdev/basic-android-security-11dadf275dea)
 - [Dynamically change Back-End Environment at Runtime](https://betterprogramming.pub/dynamically-change-backend-environment-in-android-at-runtime-d3af9ec7391f)
@@ -56,13 +57,4 @@ Fascinated by cloud computing, I'm learning Google Cloud Platform on the side. E
 <div align="center">
   <h3>Currently listening to</h3>
   <a href="https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf"><img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" /></a>
-</div>
-
-<div align="center">
-  <h3>Get in touch</h3>
-  <a href="https://linkedin.com/in/jimlyas"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" draggable="false" target="_blank"/></a>
-  <a href="https://dev.to/jimlyas"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" draggable="false" target="_blank"/></a>
-  <a href="https://stackoverflow.com/users/13200027/jimly-asshiddiqy"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" draggable="false" target="_blank"/></a>
-  <a href="https://jimlyas.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" draggable="false" target="_blank"/></a>
-  <a href="mailto:j_mly@outlook.co.id"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" draggable="false" target="_blank"/></a>
 </div>
