@@ -28,6 +28,7 @@ Fascinated by cloud computing, I'm learning Google Cloud Platform on the side. E
 ![image](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/Gradle-ED8B00?style=for-the-badge&logo=gradle&logoColor=white)
 ![image](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![image](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
@@ -45,6 +46,7 @@ Fascinated by cloud computing, I'm learning Google Cloud Platform on the side. E
 
 ### Latest Blog Posts
 
+- [Using Kotlin Reflection to Automate Compose Navigation](https://proandroiddev.com/4c5b565f660f)
 - [Living Dangerously without Obfuscation](https://medium.com/proandroiddev/living-dangerously-without-proguard-affda698a46b)
 - [Jetpack Compose for Late Adopters](https://proandroiddev.com/jetpack-compose-cc59718b3914)
 - [6 Basic Security Tips for Android Application](https://medium.com/telkomdev/basic-android-security-11dadf275dea)
