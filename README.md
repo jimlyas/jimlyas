@@ -7,6 +7,8 @@ I'm passionate about learning programming especially Android Application Develop
 Fascinated by cloud computing, I'm learning Google Cloud Platform on the side. Experienced in Google Maps Platform APIs, BigQuery, and Google Analytics data processing.
 
 - 🔭 Working for Accenture
+- 🌱 Cloud Computing Enthusiast
+- 👯 Certified in multiple SAP modules
 - 🥅 Personal Goals: Be more involved in many activities with colleagues and friends
 - ⚡ Watch a lot of animes, movies, TV series, and some K-dramas.
 
