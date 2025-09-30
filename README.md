@@ -46,13 +46,11 @@ Fascinated by cloud computing, I'm learning Google Cloud Platform on the side. E
 
 ### Latest Blog Posts
 
+- [Visualizing Compose Navigation with Kotlin Compiler Plugin](https://proandroiddev.com/compose-diagram-e74fcbac08f8)
 - [Using Kotlin Reflection to Automate Compose Navigation](https://proandroiddev.com/4c5b565f660f)
 - [Living Dangerously without Obfuscation](https://medium.com/proandroiddev/living-dangerously-without-proguard-affda698a46b)
-- [Jetpack Compose for Late Adopters](https://proandroiddev.com/jetpack-compose-cc59718b3914)
-- [6 Basic Security Tips for Android Application](https://medium.com/telkomdev/basic-android-security-11dadf275dea)
 - [Dynamically change Back-End Environment at Runtime](https://betterprogramming.pub/dynamically-change-backend-environment-in-android-at-runtime-d3af9ec7391f)
 - [Developing HarmonyOS Application as Android Developer](https://proandroiddev.com/harmony-bc0b3cfe3196)
-- [Two Developer Tools for Documenting Android Codebase](https://betterprogramming.pub/two-developer-tools-for-documenting-android-codebases-3482bad3fb4c)
 
 ---
 
