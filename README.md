@@ -14,7 +14,7 @@ Fascinated by cloud computing, I'm learning Google Cloud Platform on the side. E
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
 | Category | Tools & Technologies |
 | :--- | :--- |
