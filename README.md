@@ -39,7 +39,9 @@ Fascinated by cloud computing, I'm learning Google Cloud Platform on the side. E
 
 ---
 
-<div align="center">
-  <h3>Currently listening to</h3>
-  <a href="https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf"><img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="500" /></a>
-</div>
+<h3 align="center">Currently listening to &amp; watching</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/0mt6pwrrbaxr1bbji8cx31ipf"><img src="https://now-playing-jimlyas.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="420" /></a>
+  <a href="https://anilist.co/user/jimlyas/"><img src="https://anilist-tracker-phi.vercel.app/" alt="AniList Currently Watching" width="420" /></a>
+</p>
